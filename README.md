@@ -4,10 +4,10 @@ This project explores the use of machine learning algorithms to predict diseases
 
 Algorithms & Models Explored : 
 
-1.Naive Bayes
-2.Decision Tree Classifier
-3.Random Forest Classifier
-4.Gradient Boosting Classifier
-5.Logistic Regression
-6.k-Nearest Neighbors(KNN)
+1.Naive Bayes<br />
+2.Decision Tree Classifier<br />
+3.Random Forest Classifier<br />
+4.Gradient Boosting Classifier<br />
+5.Logistic Regression<br />
+6.k-Nearest Neighbors(KNN)<br />
 
