@@ -1,4 +1,5 @@
-# Disease-Predictor
+# Disease-Predictor 
+By Sirisha V Ramana & Sai Chandran R
 
 This project explores the use of machine learning algorithms to predict diseases from symptoms.
 
