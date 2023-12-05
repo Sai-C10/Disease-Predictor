@@ -1,6 +1,7 @@
-1.Download all the files from mysite
+t1.Download all the files from mysite
 2.Run the manage.py file( Terminal opens )
 3.Run the 'cd mysite' command 
-4.Run the 'python manage.py runserver' command
+4.Run the 'python manage.py runserver' command 
 5.Finally a website link will be generated 
-6.Ctrl+click to open the website & you can interact with the front end
+6.Ctrl+click to open the website & you can interact with the front end 
+ ( Make sure to  refer the snaps )  
